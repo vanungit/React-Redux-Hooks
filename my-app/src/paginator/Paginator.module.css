@@ -1,0 +1,31 @@
+
+.b{
+   font-weight: bold;
+   color: gold;
+}
+.paginator span{
+   font-size: 22px;
+   padding:0 10px;
+   cursor: pointer;
+}
+button{
+   color: cornflowerblue;
+   font-size: 15px;
+   padding: 3px 10px;
+   border-bottom-width: thick;
+   border-radius: 4px;
+   cursor: pointer;
+   background-color:white;
+
+
+}
+.prev button{
+
+   margin-left: -12%;
+}
+button:hover{
+   background-color:gold;
+}
+.paginator{
+   text-align: center;
+}

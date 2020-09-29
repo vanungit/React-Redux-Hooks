@@ -1,0 +1,29 @@
+nav{
+	text-decoration: none;
+	display: flex;
+	width:61%;
+	margin:0 auto;
+	padding: 2% 0;
+	font-family: cursive;
+	background-color: white;
+}
+
+nav a{
+	color:#5b95e5c9;
+	background-color: white;
+}
+nav div{
+	margin-left: 13%;
+	color:#5b95e5c9;
+
+}
+
+.activs{
+	color:gold;
+
+}
+.friend{
+	font-size: 25px;
+}
+
+

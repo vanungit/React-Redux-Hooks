@@ -1,0 +1,17 @@
+@import "~antd/dist/antd.css";
+
+.App {
+    display: flex;
+    justify-content: center;
+}
+.app-wrapper-content{
+    text-align: center;
+    width: 62%;
+}
+
+header{
+    font-size: 25px;
+}
+.app-wrapper-content{
+    padding:70px;
+}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bac45699-17f6-42c6-8fa7-9101f184ca88" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/Api/GetIpi.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/Api/GetIpi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/Api/data-2016-11-10T00-00-00-structure-2016-09-12T00-00-00.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/Components/List/Container.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/Components/List/List.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/Components/List/List.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/Components/List/List.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/Components/List/List.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/Components/List/ListIpContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/Components/List/ListIpContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/Components/WiewInfo/Wiew.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/Components/WiewInfo/Wiew.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/Components/WiewInfo/WiewInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/Components/WiewInfo/WiewInfo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/Components/WiewInfo/WiewuserInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/Components/WiewInfo/WiewuserInfo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/Components/WiewInfo/wiew.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/Components/WiewInfo/wiew.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/paginator/Paginator.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/paginator/Paginator.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/paginator/usersPaginator.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/paginator/usersPaginator.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/redux/List-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/redux/List-reducer.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my-app" />
+  </component>
+  <component name="ProjectId" id="1hxI5dJIOBZqQdF3EV4MfdDI3M9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bac45699-17f6-42c6-8fa7-9101f184ca88" name="Default Changelist" comment="" />
+      <created>1600946139711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600946139711</updated>
+      <workItem from="1600946141106" duration="1146000" />
+      <workItem from="1601221454554" duration="1689000" />
+      <workItem from="1601318202121" duration="123000" />
+      <workItem from="1601322802606" duration="617000" />
+      <workItem from="1601385605834" duration="1040000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600946396100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1600946396100" />
+  </component>
+</project>
